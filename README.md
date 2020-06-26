@@ -1,4 +1,4 @@
-# Logging in Angular Applications
+# Logging in Angular Applications [Link](https://www.codemag.com/Article/1711021/Logging-in-Angular-Applications)
 
 By **Paul D. Sheriff**
 
